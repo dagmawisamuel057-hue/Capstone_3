@@ -1,0 +1,32 @@
+Exercise 2.A – Thinking Critically About Data Analysis
+
+1. Questions I have:
+- How was the data for this infographic collected and what sources were used?
+- Does search data actually reflect what people prefer or do in real life?
+- Could there be other reasons why certain foods are searched more often?
+
+2. Google Trends URL:
+https://trends.google.com
+
+3. Highest and lowest milkshake values:
+the chart increased and decreased (highest in April-6 -100 and lowest is on April 7 -43
+
+4. Highest and lowest hamburger values:
+highest -100 on April 6 and lowest on April 7 -24
+
+5. Why did the milkshake line change:
+i noticed that the milkshake line changed because google trends uses relative values instead of exact numbers ,When another search term is added, the chart rescales based on the highest value, which changes how the milkshake data appears even though the actual search volume did not change.
+
+6. Relationship between breakup and food searches:
+break up goes up and down but i dint see any correlation between the two, on April breakup tends to be high but no result showing people buy more food on breakups.
+
+
+7. Reliability of the article:
+ in my opinion the data may not be fully reliable. google trend shows relative search and not actual behavior and many external factors can influence search trends this makes it difficult to draw strong conclusions.
+
+8. Top states for milkshake and hamburger:
+milkshake-California-Texas-New York
+Humberger- Florida -ohio -Texas
+
+9. Insights from state-level data:
+the data intel's  that preferences may vary by region but this does not necessarily prove actual patterns. it only reflects search behavior which may not directly translate into real-world actions.
