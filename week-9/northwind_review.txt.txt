@@ -1,0 +1,9 @@
+Northwind Database Review
+
+The Northwind database is a sample business database that contains information about customers, employees, products, suppliers, orders, territories, and sales transactions. The database is designed to demonstrate how a business can organize and manage operational data using a relational database structure.
+
+During the review, I explored the relationships between tables and identified primary and foreign keys that connect the data. For example, Customers are connected to Orders, Orders are connected to Products through Sales records, and Employees are connected to Territories through the Employee Territories table.
+
+The database follows a normalized structure that reduces data redundancy and improves data integrity. By examining the Entity Relationship Diagram (EER), I gained a better understanding of how tables interact and how business data can be modeled for reporting and analysis.
+
+This review helped strengthen my understanding of relational databases, table relationships, primary keys, foreign keys, and data modeling concepts that are important for data analytics and business intelligence projects.
