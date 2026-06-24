@@ -123,7 +123,7 @@ This repository includes:
 * Power BI report file: `Mulugeta_capstone3.pbix`
 * Source data files
 * Project README
-* Link to 10-minute project video recording: `[Add video link here]`
+* Link to 10-minute project video recording: https://yearuptemp-my.sharepoint.com/:f:/g/personal/dmulugeta_my_yearupunited_org/IgAvcGKalN3MQrb-1AbXYNq-AVpLWNmj98-J4mbqY0lNTTA?tdid=236bae30-39d3-4549-974b-4b90de1d5346
 
 ## Presentation Focus
 
